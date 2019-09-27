@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">robolectric-alertdialog-issue</string>
+    <string name="message_label">Message</string>
+    <string name="title_label">Title</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="ok_label">OK</string>
+</resources>
